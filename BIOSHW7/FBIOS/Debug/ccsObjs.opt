@@ -1,0 +1,1 @@
+"./FBIOScfg.obj" "./FBIOScfg_c.obj" "./main.obj" -l"./FBIOScfg.cmd" -l"libc.a" -l"C:\Program Files\C6xCSL\lib_3x\csl6713.lib" -l"D:\Em\DSK6713\c6000\dsk6713\lib\dsk6713bsl.lib" 
